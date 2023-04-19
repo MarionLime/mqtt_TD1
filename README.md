@@ -1,6 +1,6 @@
 ## mqtt_TD1
 
-#Communication MQTT en C++
+# Communication MQTT en C++
 
 Sujet : En C++, avec la bibliothèque de votre choix, paho si pas d'idée de bibliothèque, vous allez réaliser deux programmes.
 
@@ -22,6 +22,8 @@ CMake version 3.5 (minimum)
 Librairie Paho
 
 ____________________________________________________________________________________________________________________________________________
+
+# broker_connexion correspond à la partie un du TD et message à la partie deux.
 
 Ayant un problème de compilateur, je n'ai malheureusement pas pu tester mon programme.
 Il est donc voué à l'amélioration une fois le problème résolu.
